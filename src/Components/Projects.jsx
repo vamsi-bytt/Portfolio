@@ -18,7 +18,7 @@ function Projects() {
       description:
         "A responsive personal portfolio showcasing my introduction, skills, projects, and contact information.",
       technologies: ["React", "Tailwind CSS", "JavaScript"],
-      github: "https://github.com/your-username/Portfolio",
+      github: "https://github.com/vamsi-bytt/Portfolio/",
       demo: "#",
       gradient: "from-purple-600 to-indigo-600",
     },
